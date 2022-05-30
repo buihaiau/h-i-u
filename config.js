@@ -2,7 +2,7 @@ const CONFIG = {
     titleWeb: "VAY TIEN confess",
     introTitle: 'Who are you',
     introDesc: `Trái đất vốn lạ thường
-    BẠN THÂN MẾN. TRẢ NỢ CHO MÌNH NHÉ, 
+    BẠN THÂN MẾN. TRẢ NỢ CHO MÌNH NHÉ 
     ,
     btnIntro: '^^HiHi^^',
     title: 'CÓ TRẢ CHO BỐ KHÔNG THÌ BẢO',
